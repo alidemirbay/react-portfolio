@@ -1,9 +1,15 @@
 import './App.css';
+import About from './components/About';
 import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Navbar />
+
+    <div className='container'>
+      <Navbar />
+
+      <About />
+    </div>
   );
 }
 
