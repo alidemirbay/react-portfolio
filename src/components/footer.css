@@ -1,0 +1,18 @@
+i {
+  font-size: 3em;
+  color: #E8E8E8;
+  margin-right: 1em;
+  margin-top: 0.3em;
+}
+.copyright{
+  color: #E8E8E8;
+  margin-right: 30px;
+  margin-top: 15px;
+  font-size: 20px;
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;  
+
+}

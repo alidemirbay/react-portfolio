@@ -13,28 +13,28 @@
     "name": "Eat Da Burger",
     "github" :"https://github.com/alidemirbay/Web-Burger",
     "deploy": "https://ademir-burger.herokuapp.com/",
-    "topics": "express-js, mysql, sequelize, handlebars-js"
+    "topics": "express, mysql, sequelize, handlebars"
     },
     {
     "id": 2,
     "name": "Employee Directory",
     "github" :"https://github.com/alidemirbay/web-employee-directory",
     "deploy": "https://alidemirbay.github.io/web-employee-directory/",
-    "topics": "react, node.js, express.js,bootstrap "
+    "topics": "react, express,bootstrap"
     },
     {
     "id": 3,
     "name": "PUB-LISH",
     "github" :"https://github.com/LauraGwendolynBurch/Pub-Lish",
     "deploy": "https://lauragwendolynburch.github.io/Pub-Lish/",
-    "topics": "jQuery,bulma, moment, "
+    "topics": "jQuery, bulma, moment, API"
     },
     {
     "id": 4,
     "name": "Weather Dashboard",
     "github" : "https://github.com/alidemirbay/Web-WeatherDashboard",
     "deploy": "https://alidemirbay.github.io/Web-WeatherDashboard/",
-    "topics": "HTML, CSS, API, Javascript"
+    "topics": "HTML, Bootstrap, API, localstorage"
       },
       {
     "id": 5,
@@ -48,21 +48,21 @@
     "name": "Code Quiz",
     "github" : "https://github.com/alidemirbay/Web-CodeQuiz",
     "deploy": "https://alidemirbay.github.io/Web-CodeQuiz/",
-    "topics": "HTML, Javascript, CSS"
+    "topics": "HTML, JS, CSS"
     },
     {
     "id": 7,
     "name": "Password Generator",
     "github" : "https://github.com/alidemirbay/Web-PasswordGenerator",
     "deploy": "https://alidemirbay.github.io/Web-PasswordGenerator/",
-    "topics": "HTML, Javascript, CSS"
+    "topics": "HTML, JS, CSS"
     },
     {
       "id": 8,
       "name": "Note Taker ",
       "github" : "https://github.com/alidemirbay/Web-NoteTaker",
       "deploy": "https://ademir-note-taker.herokuapp.com/",
-      "topics": "html,css,node.js, express.js"
+      "topics": "HTML, node, express"
       }
 
     

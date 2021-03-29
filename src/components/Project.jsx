@@ -1,24 +1,19 @@
 import React from 'react'
-// import images from '../images'
 import { pics } from '../images/pics'
-
-
-
-
+import './project.css'
 
 function Project({ project }) {
   return (
 
-    <div className="col-lg-4 col-md-6 mt-4 cards "    >
-      <div className="cardContainer" >
+    <div className="col-lg-4 col-md-6 mb-5 cards " >
+      <div className="cardContainer " >
+        <img src={pics[parseInt(project.id)]} className="card-img-top" alt={project.name} />
+        <div className="card-body text-center ">
 
-        <img style={{ height: 300 }} src={pics[parseInt(project.id)]} className="card-img-top" alt={project.name} />
-        <div className="card-body ">
-          <br />
-          <p className="card-title ">{project.name}</p>
-          <p>{project.topics}</p>
-          <a href={project.github}>GO TO REPO</a>
-          <a href={project.deploy}>GO TO APP</a>
+          <h3 className="card-title ">{project.name}</h3>
+          <p >{project.topics}</p>
+          <a className='btn btn-info mr-5' href={project.github}>VIEW REPO</a>
+          <a className='btn btn-info' href={project.deploy}>VIEW APP</a>
 
         </div>
       </div>

@@ -1,13 +1,11 @@
 import React from "react";
 import myresume from '../images/myresume.pdf'
-const style = {
-  fontSize: "24px",
-  height: "100px",
-};
+import './navbar.css'
+
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-primary  text-dark" style={style} >
+    <nav className="navbar navbar-expand-lg  bg-primary  "  >
       <button
         className="navbar-toggler"
         type="button"
@@ -20,10 +18,10 @@ function Navbar() {
         <span className="navbar-toggler-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarNav">
-        <ul className="navbar-nav">
-          <li className="nav-item"> {" "} <a className="nav-link" href="/about"> {" "} About{" "} </a>{" "} </li>
-          <li className="nav-item "> {" "} <a className="nav-link" href={"/portfolio"}> {" "} Portfolio{" "} </a>{" "} </li>
-          <li className="nav-item"> {" "} <a className="nav-link " taget='blank' href={myresume}> {" "} Resume{" "} </a>{" "} </li>
+        <ul className="navbar-nav ml-auto">
+          <li className="nav-item mx-2">  <a className="nav-link" href="/about">  About </a> </li>
+          <li className="nav-item mx-2">  <a className="nav-link" href={"/portfolio"}>  Portfolio </a> </li>
+          <li className="nav-item mx-2">  <a className="nav-link " target='blank' rel="noopener noreferrer" href={myresume}>  Resume </a> </li>
         </ul>
       </div>
     </nav>
