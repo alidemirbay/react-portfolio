@@ -5,8 +5,8 @@ import './project.css'
 function Project({ project }) {
   return (
 
-    <div className="col-lg-4 col-md-6 mb-5 cards " >
-      <div className="card " >
+    <div className="col-lg-4 col-md-6 mb-5   " >
+      <div className="cards " >
         <img src={pics[parseInt(project.id)]} className="card-img-top" alt={project.name} />
         <div className="card-body text-center ">
 
