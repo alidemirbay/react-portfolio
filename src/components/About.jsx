@@ -9,7 +9,7 @@ function About() {
   return (
     <div>
 
-      <h1 className="aboutMe"> Ali Demir</h1>
+      <h1 className="aboutMe">Hi, I'm Ali Demir</h1>
 
 
       <div className="row">

@@ -16,7 +16,7 @@ function Footer() {
           <a href={resume} className="btn  icons" title="Resume" target="_blank" rel="noopener noreferrer"
             style={{ fontSize: 30, color: '#E8E8E8' }}><i className="fas fa-file-pdf"></i></a>
 
-          <br />
+
           <p className="copyright mt-2 text-center" style={{ color: 'white', marginRight: '30px', marginTop: '15px' }}>
             © Ali Demir 2021
             </p>

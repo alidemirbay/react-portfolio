@@ -1,5 +1,5 @@
 import React from "react";
-
+import myresume from '../images/myresume.pdf'
 const style = {
   fontSize: "24px",
   height: "100px",
@@ -22,9 +22,8 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item"> {" "} <a className="nav-link" href="/about"> {" "} About{" "} </a>{" "} </li>
-          <li className="nav-item "> {" "} <a className="nav-link" href="/portfolio"> {" "} Portfolio{" "} </a>{" "} </li>
-          <li className="nav-item"> {" "} <a className="nav-link" href="/contact"> {" "} Contact{" "} </a>{" "} </li>
-          <li className="nav-item"> {" "} <a className="nav-link " href="/resume"> {" "} Resume{" "} </a>{" "} </li>
+          <li className="nav-item "> {" "} <a className="nav-link" href={"/portfolio"}> {" "} Portfolio{" "} </a>{" "} </li>
+          <li className="nav-item"> {" "} <a className="nav-link " taget='blank' href={myresume}> {" "} Resume{" "} </a>{" "} </li>
         </ul>
       </div>
     </nav>
