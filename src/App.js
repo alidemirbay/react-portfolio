@@ -7,17 +7,17 @@ import AboutPage from './pages/AboutPage';
 function App() {
   return (
 
-    <Router>
-      <Navbar />
-      <div   >
+    <div >
+      <Router>
+        <Navbar />
         <Switch>
           <Route exact path="/"> <AboutPage /> </Route>
           <Route exact path="/about"> <AboutPage /> </Route>
           <Route exact path="/portfolio" > <PortfolioPage /> </Route>
         </Switch>
-      </div>
-      <Footer />
-    </Router>
+        <Footer />
+      </Router>
+    </div>
   );
 }
 

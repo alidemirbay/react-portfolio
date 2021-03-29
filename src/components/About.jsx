@@ -7,6 +7,8 @@ import ali from '../images/ali.png'
 
 function About() {
   return (
+
+
     <div className='container'>
       <h1 className="aboutMe my-5">Hi, I'm Ali Demir</h1>
       <div className="row">
@@ -15,12 +17,11 @@ function About() {
         </div>
         <div className="col-md-9 col-sm-12 " 	>
           <p className='aboutme-description' >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse praesentium dolore nostrum quo suscipit fugit, itaque neque harum ipsa optio at, ratione quidem modi blanditiis libero quam hic quos illum!
+            I am a full stack web developer with a background in teaching chemistry. Recently earned a certificate in full stack development from University of Washington. After long experience in education my new passion is web development.
                  </p>
 
           <p className='aboutme-description'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nobis, dolorem dicta culpa cupiditate quam atque a ut illum id sapiente, reiciendis optio quo pariatur quisquam vitae aut architecto totam?
-            Recusandae unde maxime accusamus pariatur eum suscipit vitae corporis soluta? Rem, placeat dicta cumque, soluta est quae non voluptates quasi minus mollitia dolores sint! Nam recusandae beatae sequi hic reprehenderit.
+            I am proactive in learning new skills and knowledge with core competency in full-stack web development such as JavaScript, HTML, CSS, jQuery, React, NodeJS, MongoDB and SQL. Life-long dedication to learning and in self development. Quick-learner, organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.
                   </p>
         </div>
       </div>
