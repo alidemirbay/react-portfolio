@@ -21,7 +21,7 @@ function About() {
                  </p>
 
           <p className='aboutme-description'>
-            I am proactive in learning new skills and knowledge with core competency in full-stack web development such as JavaScript, HTML, CSS, jQuery, React, NodeJS, MongoDB and SQL. Life-long dedication to learning and in self development. Quick-learner, organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.
+            I am proactive in learning new skills and knowledge with core competency in full-stack web development such as JavaScript, HTML, CSS, jQuery, React, NodeJS, MongoDB and SQL. Life-long dedication to learning and in self development. Quick-learner, organized, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.
                   </p>
         </div>
       </div>
