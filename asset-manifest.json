@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.77fdb656.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.319feb56.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.319feb56.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e530417f.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e530417f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0004b542.chunk.js": "/react-portfolio/static/js/2.0004b542.chunk.js",
+    "static/js/2.0004b542.chunk.js.map": "/react-portfolio/static/js/2.0004b542.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.77fdb656.chunk.css.map": "/react-portfolio/static/css/main.77fdb656.chunk.css.map",
+    "static/js/2.0004b542.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0004b542.chunk.js.LICENSE.txt",
+    "static/media/ali.3a5734a1.png": "/react-portfolio/static/media/ali.3a5734a1.png",
+    "static/media/burger.b55e9f46.png": "/react-portfolio/static/media/burger.b55e9f46.png",
+    "static/media/codequiz.be0bd20e.png": "/react-portfolio/static/media/codequiz.be0bd20e.png",
+    "static/media/dayplanner.437eb868.png": "/react-portfolio/static/media/dayplanner.437eb868.png",
+    "static/media/empdir.f1b9745f.png": "/react-portfolio/static/media/empdir.f1b9745f.png",
+    "static/media/googlebooks.2b130ba2.png": "/react-portfolio/static/media/googlebooks.2b130ba2.png",
+    "static/media/myresume.f3b0491c.pdf": "/react-portfolio/static/media/myresume.f3b0491c.pdf",
+    "static/media/notetaker.f225ff1e.png": "/react-portfolio/static/media/notetaker.f225ff1e.png",
+    "static/media/password.aa25cbf8.png": "/react-portfolio/static/media/password.aa25cbf8.png",
+    "static/media/publish.db5c0341.png": "/react-portfolio/static/media/publish.db5c0341.png",
+    "static/media/weather.68e49a21.png": "/react-portfolio/static/media/weather.68e49a21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e530417f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0004b542.chunk.js",
+    "static/css/main.77fdb656.chunk.css",
+    "static/js/main.319feb56.chunk.js"
+  ]
+}
