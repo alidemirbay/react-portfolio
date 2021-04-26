@@ -11,15 +11,15 @@
     {
     "id": 1,
     "name": "Eat Da Burger",
-    "github" :"https://github.com/alidemirbay/Web-Burger",
-    "deploy": "https://ademir-burger.herokuapp.com/",
+    "github" :"https://github.com/alidemirbay/burger-app",
+    "deploy": "https://ad-burger.herokuapp.com/",
     "topics": "express, mysql, sequelize, handlebars"
     },
     {
     "id": 2,
     "name": "Employee Directory",
-    "github" :"https://github.com/alidemirbay/web-employee-directory",
-    "deploy": "https://alidemirbay.github.io/web-employee-directory/",
+    "github" :"https://github.com/alidemirbay/employee-directory",
+    "deploy": "https://alidemirbay.github.io/employee-directory/",
     "topics": "react, express,bootstrap"
     },
     {
@@ -32,37 +32,37 @@
     {
     "id": 4,
     "name": "Weather Dashboard",
-    "github" : "https://github.com/alidemirbay/Web-WeatherDashboard",
-    "deploy": "https://alidemirbay.github.io/Web-WeatherDashboard/",
-    "topics": "HTML, Bootstrap, API, localstorage"
+    "github" : "https://github.com/alidemirbay/weather-dashboard",
+    "deploy": "https://alidemirbay.github.io/weather-dashboard/",
+    "topics": "Bootstrap, API, Local Storage"
       },
       {
     "id": 5,
     "name": "Day Planner",
-    "github" : "https://github.com/alidemirbay/Web-DayPlanner",
-    "deploy": "https://alidemirbay.github.io/Web-DayPlanner/",
+    "github" : "https://github.com/alidemirbay/day-planner",
+    "deploy": "https://alidemirbay.github.io/day-planner/",
     "topics": "jQuery,Bootstrap,Moment"
     },
     {
     "id": 6,
     "name": "Code Quiz",
-    "github" : "https://github.com/alidemirbay/Web-CodeQuiz",
-    "deploy": "https://alidemirbay.github.io/Web-CodeQuiz/",
-    "topics": "HTML, JS, CSS"
+    "github" : "https://github.com/alidemirbay/code-quiz",
+    "deploy": "https://alidemirbay.github.io/code-quiz/",
+    "topics": "HTML, JS, CSS, Local Storage"
     },
     {
     "id": 7,
     "name": "Password Generator",
-    "github" : "https://github.com/alidemirbay/Web-PasswordGenerator",
-    "deploy": "https://alidemirbay.github.io/Web-PasswordGenerator/",
+    "github" : "https://github.com/alidemirbay/password-generator",
+    "deploy": "https://alidemirbay.github.io/password-generator/",
     "topics": "HTML, JS, CSS"
     },
     {
       "id": 8,
       "name": "Note Taker ",
-      "github" : "https://github.com/alidemirbay/Web-NoteTaker",
-      "deploy": "https://ademir-note-taker.herokuapp.com/",
-      "topics": "HTML, node, express"
+      "github" : "https://github.com/alidemirbay/note-taker",
+      "deploy": "https://ad-notetaker.herokuapp.com/",
+      "topics": "JSON, node, express"
       }
 
     

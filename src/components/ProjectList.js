@@ -6,7 +6,7 @@ function ProjectList(props) {
   return (
     <div className="wrapper">
       <div className="project">
-        <h1 className="title">My Portfolio</h1>   <hr />
+        <h1 className="title">Projects</h1>   <hr />
       </div>
 
       <div className="container-fluid">

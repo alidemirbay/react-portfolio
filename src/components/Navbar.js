@@ -20,7 +20,7 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item mx-2">  <a className="nav-link" href="/about">  About </a> </li>
-          <li className="nav-item mx-2">  <a className="nav-link" href={"/portfolio"}>  Portfolio </a> </li>
+          <li className="nav-item mx-2">  <a className="nav-link" href={"/portfolio"}>  Projects </a> </li>
           <li className="nav-item mx-2">  <a className="nav-link " target='blank' rel="noopener noreferrer" href={myresume}>  Resume </a> </li>
         </ul>
       </div>
