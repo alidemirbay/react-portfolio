@@ -2,7 +2,7 @@ import React from 'react'
 import ProjectList from '../components/ProjectList'
 import Project from '../components/Project'
 import portfolio from '../projects.json'
-function PortfolioPage() {
+function ProjectPage() {
   return (
 
     <ProjectList >
@@ -15,4 +15,4 @@ function PortfolioPage() {
   )
 }
 
-export default PortfolioPage
+export default ProjectPage
